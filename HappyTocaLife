@@ -2,7 +2,7 @@
   "Json_Data": [
     {
 
-      "HouseAds_package": "com.kiloo.subwaysurf",
+      "HouseAds_package": "com.happytocalife.guidify",
       "HouseAds_title": "Subway Surfers 35",
       "HouseAds_discripton": "Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog!",
       "HouseAds_image": "https://i.imgur.com/XZHOjBO.jpg",
@@ -40,7 +40,7 @@
       "Show_help_toast"     : "yes",
 
       "ClicksTo_showAd": "1",
-      "Active_PackageName": "com.mygfx.hamguide",
+      "Active_PackageName": "com.happytocalife.guidify",
       "OnBack_ClicksTo_showAd": "1",
 
       "Ad_format_fi_activity_1" : "native",
